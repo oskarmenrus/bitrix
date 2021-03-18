@@ -1,0 +1,4 @@
+#Exclude default file storage directory
+/upload/
+
+

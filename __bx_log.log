@@ -1,0 +1,474 @@
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+Array
+(
+    [ID] => 4
+    [IBLOCK_ID] => 2
+    [NAME] => Герцог
+)
+
+
+
+Array
+(
+    [ID] => 4
+    [TIMESTAMP_X] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2021-02-18 18:22:49.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [MODIFIED_BY] => 1
+    [DATE_CREATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2021-02-18 18:22:49.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [IBLOCK_SECTION_ID] => 1
+    [ACTIVE] => Y
+    [ACTIVE_FROM] => 
+    [ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Герцог
+    [PREVIEW_PICTURE] => 5
+    [PREVIEW_TEXT] => <p>Изящный каркас с элементами росписи, роскошные ткани для обивки, яркие цвета и богатый декор.</p>
+    [PREVIEW_TEXT_TYPE] => html
+    [DETAIL_PICTURE] => 6
+    [DETAIL_TEXT] =>         <p>Изящный каркас с элементами росписи, роскошные ткани для обивки, яркие цвета и богатый декор.</p>
+    [DETAIL_TEXT_TYPE] => html
+    [SEARCHABLE_CONTENT] => ГЕРЦОГ
+ИЗЯЩНЫЙ КАРКАС С ЭЛЕМЕНТАМИ РОСПИСИ, РОСКОШНЫЕ 
+ТКАНИ ДЛЯ ОБИВКИ, ЯРКИЕ ЦВЕТА И БОГАТЫЙ ДЕКОР.
+ИЗЯЩНЫЙ КАРКАС С ЭЛЕМЕНТАМИ РОСПИСИ, РОСКОШНЫЕ 
+ТКАНИ ДЛЯ ОБИВКИ, ЯРКИЕ ЦВЕТА И БОГАТЫЙ ДЕКОР.
+    [WF_STATUS_ID] => 1
+    [WF_PARENT_ELEMENT_ID] => 
+    [WF_NEW] => 
+    [WF_LOCKED_BY] => 
+    [WF_DATE_LOCK] => 
+    [WF_COMMENTS] => 
+    [IN_SECTIONS] => Y
+    [XML_ID] => 10
+    [CODE] => 
+    [TAGS] => 
+    [TMP_ID] => -782370160
+    [SHOW_COUNTER] => 
+    [SHOW_COUNTER_START] => 
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
+Array
+(
+    [CLASSIFIER] => Array
+        (
+            [5] => Array
+                (
+                    [ID] => 5
+                    [IBLOCK_ID] => 8
+                    [NAME] => Рибок
+                )
+
+            [6] => Array
+                (
+                    [ID] => 6
+                    [IBLOCK_ID] => 8
+                    [NAME] => Бен10
+                )
+
+            [7] => Array
+                (
+                    [ID] => 7
+                    [IBLOCK_ID] => 8
+                    [NAME] => Пума
+                )
+
+            [8] => Array
+                (
+                    [ID] => 8
+                    [IBLOCK_ID] => 8
+                    [NAME] => Адидас
+                )
+
+        )
+
+    [CLASSIFIER_IDs] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+            [3] => 8
+        )
+
+)
+
+
